@@ -1,0 +1,8 @@
+#Sat Oct 11 00:32:28 JST 2008
+tomcatDir=C:/Program Files/pleiades-e3.7-java-jre_20110924/tomcat/6.0
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+contextsDir=C:/Program Files/pleiades-e3.7-java-jre_20110924/tomcat/6.0/conf/Catalina/localhost
+tomcatVersion=tomcatV6
+computeSourcePath=true
+tomcatConfigFile=C:/Program Files/pleiades-e3.7-java-jre_20110924/tomcat/6.0/conf/server.xml
